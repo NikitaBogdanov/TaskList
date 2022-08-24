@@ -1,0 +1,33 @@
+content:
+- List
+- Mutable List
+- Arrays
+- For loop and arrays
+- Property accessors
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Jumps and returns
+- Taming exceptions
+- The try-catch statement
+- Nullable and non-nullable types
+- Null safety
+- Type system
+- The try-catch-finally statement
+- Secondary constructor
+- Declaring classes
+- Constructors
+- Scopes
+- Member functions
+- Enum
+- Inheritance
+- Overriding functions
+- toString()
+- Data class
+- Kotlinx datetime library
+- Destructuring declarations
+- Functions as objects
+- String arrays
+- When expression
+- Lambda expressions
+- Writing files
